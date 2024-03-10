@@ -1,6 +1,6 @@
 W1: I have completed Chapter 1, where I wrote about introduction, motivation and research context. I have also started to write the structure of the paper where I have written briefly only about the first two chapters and I will complete the other chapters as I go along.
 
-W2:
+W2: I applied cnn-lstm but had the same errors I had last time.  I had only cnn and with that I had no problems, but when I apply cnn-lstm I have errors.  I'll try one more method and if that fails I'll look for a paper that applies cnn on the BreakHis dataset this week.  And next week I'll start my own implementation.
 
 W3:
 

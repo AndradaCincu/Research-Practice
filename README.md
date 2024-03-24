@@ -2,9 +2,9 @@ W1: I have completed Chapter 1, where I wrote about introduction, motivation and
 
 W2: I applied cnn-lstm but had the same errors I had last time.  I had only cnn and with that I had no problems, but when I apply cnn-lstm I have errors.  I'll try one more method and if that fails I'll look for a paper that applies cnn on the BreakHis dataset this week.  And next week I'll start my own implementation.
 
-W3: I fixed the error I had. I applied CNN-LSTM. By Wednesday I will fill in the results from the experimental part of the readings in the paper.
+W3: I fixed the error I had. I applied CNN-LSTM.
 
-W4:
+W4: I have collected the data and visualized the data from the chosen dataset and will continue with the preprocessing. In parallel with the experimental part, still having a few bugs to work out.
 
 W5:
 

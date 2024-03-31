@@ -6,7 +6,7 @@ W3: I fixed the error I had. I applied CNN-LSTM.
 
 W4: I have collected the data and visualized the data from the chosen dataset and will continue with the preprocessing. In parallel with the experimental part, still having a few bugs to work out.
 
-W5: Implemented ResNet50 model, trying to imrpove the accuracy on the cnn-lstm model beacusea i have every time i run it 0.6799 now that i've added the lstm part
+W5: Implemented ResNet50 model, trying to improve the accuracy on the cnn-lstm model beacusea i have every time i run it 0.6799 now that i've added the lstm part
 
 W6:
 

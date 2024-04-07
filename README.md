@@ -8,7 +8,7 @@ W4: I have collected the data and visualized the data from the chosen dataset an
 
 W5: Implemented ResNet50 model, trying to improve the accuracy on the cnn-lstm model beacusea i have, every time i run it, 0.6799 now that i've added the lstm part
 
-W6: No results in inproving the accuracy. I'm still trying to improve it and i have also read some other papers to look for a new aproach.
+W6: No results in improving the accuracy. I'm still trying to improve it and i have also read some other papers to look for a new aproach.
 
 W7:
 

@@ -10,7 +10,7 @@ W5: Implemented ResNet50 model, trying to improve the accuracy on the cnn-lstm m
 
 W6: No results in improving the accuracy. I'm still trying to improve it and i have also read some other papers to look for a new aproach.
 
-W7:
+W7:I have found another paper and implemented with succes everything. I just need to train one more model from the paper. And I will continue to improve the CNN-LSTM model as part of the main-personal implementation
 
 W8:
 

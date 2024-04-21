@@ -12,7 +12,7 @@ W6: No results in improving the accuracy. I'm still trying to improve it and i h
 
 W7:I have found another paper and implemented with succes everything. I just need to train one more model from the paper. And I will continue to improve the CNN-LSTM model as part of the main-personal implementation
 
-W8:
+W8: I have implemented InceptionV3 model where I had some problems because it was overfitted. I fixed the overfitted part but i got 0.69 accuracy and I will try to fix it for next week.
 
 W9:
 

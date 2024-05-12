@@ -16,7 +16,7 @@ W8: I have implemented InceptionV3 model where I had some problems because it wa
 
 W9: I have fixed the overfitted part for the ResNet50 model but right now I'm trying to improve the accuracy for both resnet50 and inceptionv3
 
-W10:
+W10: Improved the accuracy for the ResNet50 model up to 81% 
 
 W11:
 

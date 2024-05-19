@@ -18,6 +18,6 @@ W9: I have fixed the overfitted part for the ResNet50 model but right now I'm tr
 
 W10: Improved the accuracy for the ResNet50 model up to 81% 
 
-W11:
+W11: Improved the accuracy for InceptionV3 up to 75% but still have some problems with the model. Also tried without the imagenet, but it gets overfitted, but the accuracy was around 90% i will try more in this direction for next week
 
 W12:
